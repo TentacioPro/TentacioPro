@@ -34,7 +34,6 @@ Hello! I'm **Abishek M**, a passionate final-year B.E. CSE student from St. Jose
 ## 💡 Key Achievements
 - Published three chapters for a **final-year project report** with a focus on Sybil attack detection.
 - Assisted college staff in implementing basic MERN stack projects.
-- Designed a tailored resume for Deloitte applications.
 
 ## 📊 GitHub Stats
 ![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishekm&show_icons=true&theme=radical)
