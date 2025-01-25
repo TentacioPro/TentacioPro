@@ -1,4 +1,3 @@
-## Hi there 👋
 # Welcome to Abishek M's GitHub! 🎉
 
 ## 👨‍💻 About Me
@@ -62,6 +61,7 @@ Hello! I'm **Abishek M**, a passionate final-year B.E. CSE student from St. Jose
 Let’s build something amazing together! ✨
 
 <!--
+## Hi there 👋
 **TentacioPro/TentacioPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
