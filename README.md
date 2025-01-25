@@ -54,7 +54,7 @@ Hello! I'm **Abishek M**, a passionate final-year B.E. CSE student from St. Jose
 ## 🌐 Connect with Me
 - **GitHub**: [github.com/abishekm](#)
 - **LinkedIn**: [linkedin.com/in/abishek-m](https://www.linkedin.com/in/abishek-m-477125234/)
-- **Kaggle**: [kaggle.com/abishekm](#)
+- **Kaggle**: [kaggle.com/abishekm](https://www.kaggle.com/geek02)
 
 ---
 
