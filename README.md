@@ -36,8 +36,8 @@ Hello! I'm **Abishek M**, a passionate final-year B.E. CSE student from St. Jose
 - Assisted college staff in implementing basic MERN stack projects.
 
 ## 📊 GitHub Stats
-![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishekm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abishekm&layout=compact&theme=radical)
+![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tentaciopro&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaciopro&layout=compact&theme=radical)
 
 ## 📈 Goals
 - Launch my portfolio site by integrating analytics and animations.
