@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20AI%20Researcher%20|%20Cloud%20Enthusiast&descAlignY=60&descAlign=50" alt="Abishek M Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Researcher%20%7C%20Cloud%20Enthusiast&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
-  <h3>
-    Final Year B.E. CSE @ St. Joseph's Institute of Technology
-  </h3>
-  <p>
-    <em>Building scalable web apps, researching AI security, and mastering the Cloud.</em>
-  </p>
-  
+  <h3>Final Year B.E. CSE @ St. Joseph's Institute of Technology</h3>
+  <p><em>Building scalable systems, securing networks with AI, and engineering cloud-native solutions.</em></p>
+
   <a href="https://www.linkedin.com/in/abishek-maharajan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,39 +17,49 @@
   </a>
 </div>
 
-<br />
+---
+
+## 🗓️ 2025 — My Engineering Journey
+
+A focused year of **deep engineering, AI research, and full-stack system design**.
+
+### 🏆 Research & Hackathons
+- **MSME Hackathon Finalist** — AI-driven VANET security solution
+- **Sybil Attack Detection (VANETs)**
+  - Transformer + CNN Hybrid Architecture  
+  - **96% accuracy** on the **VereMi Dataset**
+  - Optimized with **AdamW**
+  - Published as an **IEEE-ready research work**
+
+### 💻 Engineering & Systems
+- **MERN Portfolio Platform**
+  - Visitor analytics
+  - Guestbook system
+  - Clean, responsive UI
+- **Task Management System**
+  - JWT Authentication
+  - Role-based access
+  - MongoDB aggregations
+- **Local AI Systems**
+  - DistilGPT-2, T5-Small
+  - Offline inference workflows
+  - Image Caption Generator
+
+### 🎓 Cloud & Problem Solving
+- **AWS Restart Graduate**
+- Preparing for **AWS CLF-C02**
+- Solved **200+ DSA problems** (LeetCode / GFG)
 
 ---
 
-## 🗓️ 2025: Year in Review (Milestones)
-
-Here is a snapshot of the major technical milestones and research work I accomplished this year:
-
-### 🏆 Research & Competitions
-- **MSME Hackathon Finalist:** Designed and presented an AI-driven security solution for VANETs.
-- **State-of-the-Art AI Research:** Developed a **Sybil Attack Detection Model** using a Transformer-CNN hybrid architecture.
-  - ⚡ **Result:** Achieved **96% Accuracy** on the Veremi Dataset.
-  - 🛠 **Tools:** PyTorch, AdamW Optimizer.
-
-### 💻 Development & Engineering
-- **Full-Stack Portfolio:** Architected a MERN-based portfolio with a custom **Analytics Dashboard** and Guestbook.
-- **Task Management System:** Built a secure, modular task tracker with user authentication (JWT) and MongoDB aggregation.
-- **AI Integration:** Implemented local LLMs (DistilGPT-2, T5) for an **Image Caption Generator**.
-
-### 🎓 Certifications & Upskilling
-- **AWS Cloud:** Completed the **AWS Restart Program**; currently preparing for the **Cloud Practitioner (CLF-C02)** exam.
-- **DSA Mastery:** Solved 200+ problems across LeetCode/GeeksForGeeks to strengthen problem-solving logic.
-
----
-
-## 🛠️ The Tech Arsenal
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend & DB</strong></td>
-    <td align="center" width="25%"><strong>AI & Cloud</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend & DB</strong></td>
+    <td align="center"><strong>AI & Cloud</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -75,46 +81,53 @@ Here is a snapshot of the major technical milestones and research work I accompl
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Key Features | Status |
-| :--- | :--- | :--- | :--- |
-| **🛡️ Sybil Attack Detector** | `Transformers` `CNN` `PyTorch` | Hybrid deep learning model detecting network attacks with **96% accuracy**. | ✅ **Completed** |
-| **📸 AI Caption Generator** | `DistilGPT-2` `spaCy` `FastText` | Generates accurate captions for images using local LLMs. | 🔄 **In Progress** |
-| **🌐 Smart Portfolio** | `React` `Node.js` `MongoDB` | Includes real-time **analytics dashboard** and visitor tracking. | ✅ **Live** |
-| **✅ TaskMaster** | `MERN Stack` `Redux` | Secure auth, drag-and-drop tasks, and modular architecture. | ✅ **Completed** |
+| Project | Stack | Highlights | Status |
+|------|------|-----------|--------|
+| 🛡️ **Sybil Attack Detector** | PyTorch, Transformers, CNN | 96% accuracy, VANET security | ✅ Completed |
+| 📸 **AI Caption Generator** | DistilGPT-2, spaCy | Offline captioning using LLMs | 🔄 In Progress |
+| 🌐 **Smart Portfolio** | MERN | Analytics + Guestbook | ✅ Live |
+| ✅ **TaskMaster** | MERN, Redux | Secure auth, modular design | ✅ Completed |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Live)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tentaciopro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tentaciopro&theme=radical" alt="GitHub Streak" width="45%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </div>
-<br />
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tentaciopro&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tentaciopro&theme=radical" width="45%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" />
 </div>
 
 ---
 
-## ⚙️ Workstation Setup
+## ⚙️ Workstation
+
 <details>
-  <summary>Click to view my Hardware</summary>
-  <br />
+  <summary><strong>My Hardware Setup</strong></summary>
+  <br/>
   <ul>
-    <li><strong>Laptop:</strong> Dell G15 5520 (2022 Edition)</li>
-    <li><strong>Processor:</strong> Intel Core i7-9700K</li>
-    <li><strong>RAM:</strong> 16GB Corsair DDR5</li>
-    <li><strong>Motherboard:</strong> Asus ROG Strix B365-F</li>
-    <li><strong>OS:</strong> Windows 11 / Linux (Dual Boot)</li>
+    <li><strong>Laptop:</strong> Dell G15 5520 (2022)</li>
+    <li><strong>CPU:</strong> Intel i7-9700K</li>
+    <li><strong>RAM:</strong> 16GB Corsair</li>
+    <li><strong>Motherboard:</strong> ASUS ROG Strix B365-F</li>
+    <li><strong>OS:</strong> Windows 11 + Linux</li>
   </ul>
 </details>
 
 ---
 
 <div align="center">
-  <h2>📫 Let's Connect!</h2>
-  <p>I am actively looking for <strong>SDE / Full Stack</strong> roles in <strong>Chennai, Bangalore, or Hyderabad</strong>.</p>
-  <a href="https://www.linkedin.com/in/abishek-maharajan/"><img src="https://img.shields.io/badge/Let's_Chat-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>
+  <h2>📫 Open to Opportunities</h2>
+  <p><strong>SDE / Full-Stack / AI-Focused Roles</strong><br/>
+  Chennai • Bangalore • Hyderabad</p>
+
+  <a href="https://www.linkedin.com/in/abishek-maharajan/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
