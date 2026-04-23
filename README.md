@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Workflows%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
-  <h3>B.E. CSE Graduate (Class of 2025) | St. Joseph's Institute of Technology</h3>
-  <p><em>Building deterministic AI systems, scalable products, and cloud-native architectures with Spec-Driven Development.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
+  <h3>Software Engineer | Agentic AI Systems | Cloud-Native Builder</h3>
+  <p><em>Building deterministic AI workflows, scalable products, and pragmatic architecture with Spec-Driven Development.</em></p>
 
   <a href="https://www.linkedin.com/in/abishek-maharajan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,17 +18,35 @@
 
 ## About Me
 
-I am a pragmatic software engineer focused on Spec-Driven Development (SDD), agentic AI workflows, and real-world product delivery.
-I prefer contracts first, deterministic execution, and fast iteration through clear architecture instead of chaotic debugging loops.
+I am a full-stack engineer who treats software as a system, not a shortcut.
+My work style is contract-first, Spec-Driven Development, and context engineering for deterministic AI output.
+I move fast, but inside clear constraints, so architecture remains stable while product velocity stays high.
 
 ---
 
-## Current Engineering Focus
+## Engineering Mentality
 
-- Agentic AI orchestration with strict context control and reusable memory patterns
-- UI systems with scalable token architecture (including multi-theme design systems)
-- Cloud-native backend and async workloads with production-first thinking
-- End-to-end engineering with measurable user and business impact
+- Spec first, code next: define behavior before implementation.
+- Prompting is not enough: context engineering and memory structure drive reliable AI systems.
+- Pivot early from anti-patterns: optimize architecture, not ego.
+- Build with empathy: software should solve human pain, not just ship features.
+- Abstract and generalize: convert one-off builds into reusable templates and systems.
+- Explore aggressively: use unknown tech as a training ground for deeper system thinking.
+
+---
+
+## Experience Highlights
+
+- Built agent-style instruction and memory workflows before these patterns became mainstream in tooling.
+- Designed and scaled a multi-theme token architecture in Maaxly with 21+ design flavors.
+- Re-architected BI workflows by shifting from blocking synchronous patterns to async workers with queue-based execution.
+- Executed an infrastructure pivot from fragile single-node deployment strategy to cleaner cloud-native orchestration.
+- Built enterprise chatbot workflows with LangChain and LangGraphJS plus trace-level observability.
+- Shipped full-stack web and mobile systems across React, Next.js, FastAPI, React Native, Flutter, and Node.js.
+- Extended open-source products with custom features instead of just self-hosting defaults.
+- Built impact-driven products including personal habit-tracking and business digitization projects.
+- Delivered hackathon systems across AI, C++, protocol-heavy, and enterprise workflow contexts.
+- Explored and adapted a large repo universe to continuously improve architecture and execution patterns.
 
 ---
 
@@ -52,26 +70,33 @@ I prefer contracts first, deterministic execution, and fast iteration through cl
 
 ---
 
-## Featured Work
+## Flagship Projects
 
-| Project | Highlights | Status |
+| Project | Focus | Outcome |
 | --- | --- | --- |
-| Agentic Skills Workflow | Deterministic AI output control using structured memory/spec docs | Active |
-| Maaxly UI Architecture | 21+ themed tokenized UI flavors with reusable design primitives | Completed |
-| Sybil Attack Detector (VANET) | Transformer + CNN architecture with 96% accuracy on VereMi | Completed |
-| Polymath / Plane Revamps | Spec-led refactors for cleaner architecture and faster delivery | Ongoing |
+| Maaxly | Multi-service SaaS architecture + tokenized UI system | Built scalable product foundation with strong theming and workflow control |
+| Polymath-OS | Full-stack knowledge system | Combined web, backend, and AI-assisted knowledge workflows |
+| Polymath-OS-Android | Mobile-first product delivery | Implemented production-grade UX improvements and test-heavy workflow |
+| Career-Ops | AI-assisted job-search system | Automated evaluation, scoring, and structured decision workflows |
+| AienggPort | Portfolio engineering and abstraction | Converted project-specific build into reusable template architecture |
+| CiggTrack | Behavior-change product | Built practical app with measurable personal impact |
+| PLane Extensions | Open-source customization | Added custom workflow capability beyond default self-host setup |
+| Sasco Hydraulics Revamp | Business digitization | Transformed brand and web presence with modern engineering quality |
 
 ---
 
-## Engineering Growth Graph (2025 -> 2026)
+## Engineering Focus Map
 
-| Domain | 2025 Level | 2026 Level |
-| --- | ---: | ---: |
-| Full-Stack Delivery | 7/10 | 9/10 |
-| Cloud and DevOps | 6/10 | 8/10 |
-| Agentic AI Systems | 5/10 | 9/10 |
-| Spec-Driven Development | 6/10 | 10/10 |
-| UI Architecture | 7/10 | 9/10 |
+~~~mermaid
+graph LR
+A[Spec-Driven Development] --> B[Deterministic AI Output]
+A --> C[Scalable System Design]
+B --> D[Agentic Workflows]
+C --> E[Cloud-Native Delivery]
+D --> F[Reusable Product Patterns]
+E --> F
+F --> G[Human-Centered Impact]
+~~~
 
 ---
 
@@ -98,3 +123,10 @@ I prefer contracts first, deterministic execution, and fast iteration through cl
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
+
+---
+
+## Education
+
+- B.E. Computer Science and Engineering, St. Joseph's Institute of Technology
+- Graduated in 2025
