@@ -1,131 +1,100 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Agentic%20Workflows%20%7C%20Spec-Driven%20Development&descAlignY=60&descAlign=50" />
-</div>
-
-<div align="center">
-  <h3>B.E. CSE Graduate (Class of 2025) @ St. Joseph's Institute of Technology</h3>
-  <p><em>Architecting scalable Agentic Systems, SDD workflows, and cloud-native solutions.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Workflows%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
+  <h3>B.E. CSE Graduate (Class of 2025) | St. Joseph's Institute of Technology</h3>
+  <p><em>Building deterministic AI systems, scalable products, and cloud-native architectures with Spec-Driven Development.</em></p>
 
   <a href="https://www.linkedin.com/in/abishek-maharajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/geek02">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/TentacioPro">
+    <img src="https://img.shields.io/badge/GitHub-TentacioPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
-## Current Focus and Engineering Evolution
+## About Me
 
-Since graduating in 2025, my work has evolved from general full-stack development into Agentic Workflows, UI Engineering, and Spec-Driven Development (SDD). I now prioritize deterministic AI pipelines, reusable architecture, and production-minded delivery.
-
-### AI and Agentic Systems
-- Built early local "Agent Skills" style orchestration before native workflow tooling became mainstream.
-- Applied SDD to enforce structured AI outputs and reduce prompt drift in multi-repo development.
-- Developed a Sybil Attack Detection system for VANETs using Transformer + CNN, reaching 96% accuracy on the VereMi dataset.
-
-### UI Engineering and Systems
-- Designed and scaled the Maaxly styling architecture with 21+ thematic flavors using tokenized design foundations.
-- Ran practical R&D on DaisyUI and TweakCN/Shadcn patterns for modular, maintainable UI systems.
-- Improved development flow in Polymath and Plane by shifting debugging cycles into spec refinement.
-
-### Cloud and Core Engineering
-- AWS Restart Graduate and actively preparing for AWS CLF-C02.
-- Continuous improvement in data structures, system design, and production engineering habits.
+I am a pragmatic software engineer focused on Spec-Driven Development (SDD), agentic AI workflows, and real-world product delivery.
+I prefer contracts first, deterministic execution, and fast iteration through clear architecture instead of chaotic debugging loops.
 
 ---
 
-## Tech Stack
+## Current Engineering Focus
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend and UI</strong></td>
-    <td align="center"><strong>Backend and Database</strong></td>
-    <td align="center"><strong>AI, Agents and Cloud</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,aws,docker,git" />
-    </td>
-  </tr>
-</table>
+- Agentic AI orchestration with strict context control and reusable memory patterns
+- UI systems with scalable token architecture (including multi-theme design systems)
+- Cloud-native backend and async workloads with production-first thinking
+- End-to-end engineering with measurable user and business impact
 
 ---
 
-## Featured Projects
+## Certifications and Credly Badges
 
-| Project | Stack | Highlights | Status |
-|------|------|-----------|--------|
-| Agentic Skills and SDD Workflow | Python, Markdown, JSON | Deterministic AI orchestration with reusable instruction systems | Live |
-| Maaxly UI Architecture | React, Tailwind, Design Tokens | 21+ theme flavors and scalable style infrastructure | Completed |
-| Sybil Attack Detector (VANET) | PyTorch, Transformer, CNN | 96% accuracy on VereMi dataset | Completed |
-| Polymath and Plane UI Revamps | TypeScript, React, Node.js | Spec-driven refactors and workflow stabilization | Ongoing |
+<div align="center">
+  <a href="https://www.credly.com/badges/17a2e950-2583-4d94-bbab-d91f00429332/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/538c8463-874f-467e-933f-9ea94dd04eb2/public_url">
+    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="140" alt="AWS re/Start Graduate" />
+  </a>
+  <a href="https://www.credly.com/badges/e4635602-baf8-4c70-9933-1ce324701361/public_url">
+    <img src="https://images.credly.com/size/340x340/images/6723c6fb-7220-4861-81e0-defe48981ba1/IBM_20Z_20Day_202025_20AI_20and_20Data.png" width="140" alt="IBM Z Day 2025 - AI and Data" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Verified via Credly | AWS Certification Completed</sub>
+</div>
 
 ---
 
-## Engineering Graph
+## Featured Work
 
-```mermaid
-graph TD
-    A[Spec-Driven Development] --> B[Deterministic AI Outputs]
-    A --> C[UI Token Architecture]
-    B --> D[Agentic Workflows]
-    C --> E[Maaxly 21+ Themes]
-    D --> F[Scalable Product Engineering]
-    E --> F
-    F --> G[Production Integrations]
-```
+| Project | Highlights | Status |
+| --- | --- | --- |
+| Agentic Skills Workflow | Deterministic AI output control using structured memory/spec docs | Active |
+| Maaxly UI Architecture | 21+ themed tokenized UI flavors with reusable design primitives | Completed |
+| Sybil Attack Detector (VANET) | Transformer + CNN architecture with 96% accuracy on VereMi | Completed |
+| Polymath / Plane Revamps | Spec-led refactors for cleaner architecture and faster delivery | Ongoing |
+
+---
+
+## Engineering Growth Graph (2025 -> 2026)
+
+| Domain | 2025 Level | 2026 Level |
+| --- | ---: | ---: |
+| Full-Stack Delivery | 7/10 | 9/10 |
+| Cloud and DevOps | 6/10 | 8/10 |
+| Agentic AI Systems | 5/10 | 9/10 |
+| Spec-Driven Development | 6/10 | 10/10 |
+| UI Architecture | 7/10 | 9/10 |
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TentacioPro&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TentacioPro&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TentacioPro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TentacioPro&theme=radical" alt="GitHub Streak" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentacioPro&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TentacioPro&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentacioPro&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TentacioPro&theme=radical" alt="Profile Summary" />
 </div>
-
----
-
-## Workstation
-
-<details>
-  <summary><strong>My Hardware Setup</strong></summary>
-  <br/>
-  <ul>
-    <li><strong>Laptop:</strong> Dell G15 5520 (2022)</li>
-    <li><strong>RAM:</strong> 16GB</li>
-    <li><strong>OS:</strong> Windows 11 + Linux</li>
-  </ul>
-</details>
 
 ---
 
 <div align="center">
   <h2>Open to Opportunities</h2>
-  <p><strong>Software Engineer | AI Engineer | Agentic Workflow Builder</strong><br/>
-  Chennai • Bangalore • Hyderabad</p>
-
+  <p><strong>Software Engineer | AI Engineer | Agentic Workflow Builder</strong><br />Chennai | Bangalore | Hyderabad</p>
   <a href="https://www.linkedin.com/in/abishek-maharajan/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
-
