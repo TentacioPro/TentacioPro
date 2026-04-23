@@ -1,132 +1,122 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
-  <h3>Software Engineer | Agentic AI Systems | Cloud-Native Builder</h3>
-  <p><em>Building deterministic AI workflows, scalable products, and pragmatic architecture with Spec-Driven Development.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20Maharajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Native%20Solutions%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Spec-Driven%20Builder&descAlignY=60&descAlign=50" />
+  <h3>AI-Native Solutions Engineer | Agentic Workflows | Full-Stack Systems</h3>
+  <p><em>Chennai, India • Building deterministic AI systems that bridge LLM capability with production infrastructure</em></p>
+</div>
 
-  <a href="https://www.linkedin.com/in/abishek-maharajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="mailto:maharajanabishek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maharajanabishek%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.kaggle.com/geek02">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.linkedin.com/in/abishek-maharajan/">
+    <img src="https://img.shields.io/badge/LinkedIn-abishek--maharajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/TentacioPro">
     <img src="https://img.shields.io/badge/GitHub-TentacioPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-## About Me
-
-I am a full-stack engineer who treats software as a system, not a shortcut.
-My work style is contract-first, Spec-Driven Development, and context engineering for deterministic AI output.
-I move fast, but inside clear constraints, so architecture remains stable while product velocity stays high.
-
----
-
-## Engineering Mentality
-
-- Spec first, code next: define behavior before implementation.
-- Prompting is not enough: context engineering and memory structure drive reliable AI systems.
-- Pivot early from anti-patterns: optimize architecture, not ego.
-- Build with empathy: software should solve human pain, not just ship features.
-- Abstract and generalize: convert one-off builds into reusable templates and systems.
-- Explore aggressively: use unknown tech as a training ground for deeper system thinking.
-
----
-
-## Experience Highlights
-
-- Built agent-style instruction and memory workflows before these patterns became mainstream in tooling.
-- Designed and scaled a multi-theme token architecture in Maaxly with 21+ design flavors.
-- Re-architected BI workflows by shifting from blocking synchronous patterns to async workers with queue-based execution.
-- Executed an infrastructure pivot from fragile single-node deployment strategy to cleaner cloud-native orchestration.
-- Built enterprise chatbot workflows with LangChain and LangGraphJS plus trace-level observability.
-- Shipped full-stack web and mobile systems across React, Next.js, FastAPI, React Native, Flutter, and Node.js.
-- Extended open-source products with custom features instead of just self-hosting defaults.
-- Built impact-driven products including personal habit-tracking and business digitization projects.
-- Delivered hackathon systems across AI, C++, protocol-heavy, and enterprise workflow contexts.
-- Explored and adapted a large repo universe to continuously improve architecture and execution patterns.
-
----
-
-## Certifications and Credly Badges
-
-<div align="center">
-  <a href="https://www.credly.com/badges/17a2e950-2583-4d94-bbab-d91f00429332/public_url">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/538c8463-874f-467e-933f-9ea94dd04eb2/public_url">
-    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="140" alt="AWS re/Start Graduate" />
-  </a>
-  <a href="https://www.credly.com/badges/e4635602-baf8-4c70-9933-1ce324701361/public_url">
-    <img src="https://images.credly.com/size/340x340/images/6723c6fb-7220-4861-81e0-defe48981ba1/IBM_20Z_20Day_202025_20AI_20and_20Data.png" width="140" alt="IBM Z Day 2025 - AI and Data" />
+  <a href="https://tentaciopro.github.io/portfoliov2/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
 
 <div align="center">
-  <sub>Verified via Credly | AWS Certification Completed</sub>
+  <a href="https://app.devin.ai/org/abishek-m-5703919fc5974d98a93ae070b82b7d0e/wiki/TentacioPro/maaxly?branch=gcp-deploy-300">
+    <img src="https://img.shields.io/badge/Devin_Wiki-Maaxly_GCP_Deploy-0B0F19?style=for-the-badge" alt="Maaxly Devin Wiki" />
+  </a>
+  <a href="https://app.devin.ai/org/abishek-m-5703919fc5974d98a93ae070b82b7d0e/wiki/TentacioPro/polymath-os-android?branch=feat%2Fui-revamp-v4">
+    <img src="https://img.shields.io/badge/Devin_Wiki-Polymath_Android_UI_V4-0B0F19?style=for-the-badge&logo=android&logoColor=white" alt="Polymath Android Devin Wiki" />
+  </a>
 </div>
 
 ---
 
-## Flagship Projects
+## About
 
-| Project | Focus | Outcome |
+I build with a Spec-Driven mindset: contracts first, implementation next, refinement continuously.
+My engineering identity sits at the intersection of agentic AI orchestration, systems architecture under constraints, and high-empathy product execution.
+
+- Pre-Anthropic Agent Skills architecture (June/July 2025) using deterministic markdown memory constraints
+- Context engineering over prompt roulette: repo-to-LLM handoff pipelines with structured control
+- Pragmatic infra evolution from GCP monolithic pain to cleaner cloud orchestration decisions
+- Real-world outcomes over demo-only output
+
+---
+
+## Deep Impact Snapshot
+
+- 106 total repositories analyzed (41 original, 65 exploration/fork learning tracks)
+- 278 search-indexed authored commits
+- 5 authored PRs merged and 3 PRs reviewed
+- 21+ tokenized UI flavors shipped in Maaxly design system exploration
+- Polymath Android V4 branch: Jest suite expanded to 303 tests across 9 suites, plus Playwright coverage additions
+- Ciggtrack self-optimization app: reduced 80+ weekly cigarette baseline by 50%
+- OSS extension pattern: self-hosted PLane plus custom bulk import/export capability
+- Hackathon rigor across QUBIC Tickchain (C++) and IBM WatsonX workflows
+
+---
+
+## Core Stack
+
+| Domain | Technologies |
+| --- | --- |
+| AI and Agentic | LangChain, LangGraph, LangSmith, OpenAI, Gemini, ElevenLabs, Retell AI, Qwen |
+| Backend | Node.js, Express.js, FastAPI, Apache Kafka, Redis, WebSockets |
+| Frontend | React, Next.js, Vite, TypeScript, TailwindCSS, Material UI, Google STITCH |
+| Data and Storage | MSSQL, MongoDB, Neo4j, LanceDB, Supabase |
+| Cloud and DevOps | Docker, Kubernetes, GCP VMs, Azure App Services, Azure Blob, Nginx, GitHub Actions |
+| Tooling | n8n, Twilio, Unipile API, Postman, GitHub Copilot, Zed |
+
+---
+
+## Selected Projects
+
+| Project | Stack | Outcome |
 | --- | --- | --- |
-| Maaxly | Multi-service SaaS architecture + tokenized UI system | Built scalable product foundation with strong theming and workflow control |
-| Polymath-OS | Full-stack knowledge system | Combined web, backend, and AI-assisted knowledge workflows |
-| Polymath-OS-Android | Mobile-first product delivery | Implemented production-grade UX improvements and test-heavy workflow |
-| Career-Ops | AI-assisted job-search system | Automated evaluation, scoring, and structured decision workflows |
-| AienggPort | Portfolio engineering and abstraction | Converted project-specific build into reusable template architecture |
-| CiggTrack | Behavior-change product | Built practical app with measurable personal impact |
-| PLane Extensions | Open-source customization | Added custom workflow capability beyond default self-host setup |
-| Sasco Hydraulics Revamp | Business digitization | Transformed brand and web presence with modern engineering quality |
+| Maaxly | React, Node.js, Kafka, Redis, Docker | Spec-driven architecture, infrastructure learnings, multi-theme UI exploration |
+| Polymath OS Android | React Native, Expo, TypeScript | Major UI revamp branch with large-scale test expansion and production-ready patterns |
+| Polymath OS Web | Next.js, FastAPI, TypeScript | Knowledge-centric system with evolving endpoint integration and responsive architecture |
+| PLane Extension | TypeScript, Docker, Cloudflare | Self-hosted OSS extended with custom bulk import/export workflows |
+| Ciggtrack | Flutter, Firebase AI, Google Stitch | Behavior-change product with measurable personal impact |
+| Career-Ops | Node.js, Playwright, AI APIs | End-to-end job search automation with scoring, tracking, and report generation |
+| AienggPort | React, TypeScript, Vite | Portfolio system generalized into reusable community-friendly template patterns |
+| OnboardFlow and QUBIC Tracks | JS and C++ | Enterprise workflow and low-level protocol exploration under hackathon constraints |
 
 ---
 
-## Engineering Focus Map
+## Certifications and Activities
 
-~~~mermaid
-graph LR
-A[Spec-Driven Development] --> B[Deterministic AI Output]
-A --> C[Scalable System Design]
-B --> D[Agentic Workflows]
-C --> E[Cloud-Native Delivery]
-D --> F[Reusable Product Patterns]
-E --> F
-F --> G[Human-Centered Impact]
-~~~
+- AWS Certified Cloud Practitioner (CLF-C02)
+- AWS re/Start Graduate
+- Postman API Fundamentals Student Expert
+- MongoDB University
+- Llama 3 (DataCamp)
+- Google Cloud AI/ML learning track
+- Hackathons: QUBIC Tickchain, Google FI Money MCP, LabLab AI, IBM WatsonX sprint
+- n8n Level 1 Community Certification
 
 ---
 
-## GitHub Analytics
+## Experience
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TentacioPro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TentacioPro&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentacioPro&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TentacioPro&theme=radical" alt="Profile Summary" />
-</div>
-
----
-
-<div align="center">
-  <h2>Open to Opportunities</h2>
-  <p><strong>Software Engineer | AI Engineer | Agentic Workflow Builder</strong><br />Chennai | Bangalore | Hyderabad</p>
-  <a href="https://www.linkedin.com/in/abishek-maharajan/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</div>
+- Software Engineer, cluBITS Solutions (Aug 2025 to Present)
+- Freelance Fullstack Developer, Underdogs of Madras (Aug 2025 to Oct 2025)
+- Software Developer Intern, cluBITS Solutions (Jan 2025 to Jun 2025)
+- AI Developer Intern, Street League Commercials Pvt Ltd (Apr 2024 to Jun 2024)
 
 ---
 
 ## Education
 
-- B.E. Computer Science and Engineering, St. Joseph's Institute of Technology
-- Graduated in 2025
+- Bachelor of Engineering in Computer Science, St. Joseph’s Institute of Technology, Chennai (2022 to 2025)  
+  CGPA: 7.55/10  
+  IEEE publication on Sybil Attack Detection using CNN and Transformers in VANETs (96% accuracy)
+
+- Diploma in Computer Science Engineering, Apollo Polytechnic College, Chennai (2019 to 2022)  
+  Aggregate: 92%
+
+---
+
+<div align="center">
+  <h3>Open to Opportunities</h3>
+  <p><strong>AI Engineer | Agentic AI Engineer | Forward Deployed Engineer | AI Solutions Architect</strong><br />Chennai | Bangalore | Hyderabad | Remote</p>
+</div>
