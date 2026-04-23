@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Workflows%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20M&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Workflows%20%7C%20AWS%20Certified&descAlignY=60&descAlign=50" />
   <h3>B.E. CSE Graduate (Class of 2025) | St. Joseph's Institute of Technology</h3>
   <p><em>Building deterministic AI systems, scalable products, and cloud-native architectures with Spec-Driven Development.</em></p>
 
