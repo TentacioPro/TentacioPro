@@ -1,30 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20Maharajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Native%20Solutions%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Spec-Driven%20Builder&descAlignY=60&descAlign=50" />
-  <h3>AI-Native Solutions Engineer | Agentic Workflows | Full-Stack Systems</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abishek%20Maharajan&fontSize=62&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=AI-Native%20Solutions%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Spec-Driven%20Builder&descAlignY=60&descAlign=50" />
+  <h3><code>AI-Native Solutions Engineer | Agentic Workflows | Full-Stack Systems</code></h3>
   <p><em>Chennai, India • Building deterministic AI systems that bridge LLM capability with production infrastructure</em></p>
 </div>
 
 <div align="center">
   <a href="mailto:maharajanabishek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maharajanabishek%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-maharajanabishek%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abishek-maharajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-abishek--maharajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-abishek--maharajan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/TentacioPro">
-    <img src="https://img.shields.io/badge/GitHub-TentacioPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-TentacioPro-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://tentaciopro.github.io/portfoliov2/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/1033425b-861c-4054-8944-26fd68d262f6">
+    <img src="https://img.shields.io/badge/Google_Skills-Public_Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Skills Profile" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/11011841">
+    <img src="https://img.shields.io/badge/IEEE-Academic_Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Paper" />
+  </a>
+  <a href="https://community.n8n.io/badges/104/completed-n8n-course-level-1?username=abishek_m">
+    <img src="https://img.shields.io/badge/n8n-Level_1_Badge-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Level 1 Badge" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://app.devin.ai/org/abishek-m-5703919fc5974d98a93ae070b82b7d0e/wiki/TentacioPro/maaxly?branch=gcp-deploy-300">
-    <img src="https://img.shields.io/badge/Devin_Wiki-Maaxly_GCP_Deploy-0B0F19?style=for-the-badge" alt="Maaxly Devin Wiki" />
+    <img src="https://img.shields.io/badge/Devin_Wiki-Maaxly_GCP_Deploy-0B0F19?style=flat-square" alt="Maaxly Devin Wiki" />
   </a>
   <a href="https://app.devin.ai/org/abishek-m-5703919fc5974d98a93ae070b82b7d0e/wiki/TentacioPro/polymath-os-android?branch=feat%2Fui-revamp-v4">
-    <img src="https://img.shields.io/badge/Devin_Wiki-Polymath_Android_UI_V4-0B0F19?style=for-the-badge&logo=android&logoColor=white" alt="Polymath Android Devin Wiki" />
+    <img src="https://img.shields.io/badge/Devin_Wiki-Polymath_Android_UI_V4-0B0F19?style=flat-square&logo=android&logoColor=white" alt="Polymath Android Devin Wiki" />
   </a>
 </div>
 
@@ -68,6 +77,31 @@ My engineering identity sits at the intersection of agentic AI orchestration, sy
 
 ---
 
+## Tech Logos
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,dart,react,nextjs,nodejs,express,fastapi,flutter,mongodb,redis,kafka,docker,kubernetes,gcp,azure,tailwind,git,githubactions" alt="Core Tech Logos" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-Agent_Framework-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-Orchestration-1F6FEB?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-Observability-0EA5E9?style=flat-square" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/ElevenLabs-Voice_AI-111111?style=flat-square" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Retell_AI-Voice_Agents-5B21B6?style=flat-square" alt="Retell AI" />
+  <img src="https://img.shields.io/badge/Qwen-Local_Models-0F172A?style=flat-square" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Twilio-Communication-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Neo4j-Graph_DB-018BFF?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/MSSQL-Data_Platform-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+</div>
+
+---
+
 ## Selected Projects
 
 | Project | Stack | Outcome |
@@ -83,6 +117,23 @@ My engineering identity sits at the intersection of agentic AI orchestration, sy
 
 ---
 
+## GitHub Graphs
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TentacioPro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=TentacioPro&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentacioPro&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TentacioPro&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 ## Certifications and Activities
 
 - AWS Certified Cloud Practitioner (CLF-C02)
@@ -93,6 +144,35 @@ My engineering identity sits at the intersection of agentic AI orchestration, sy
 - Google Cloud AI/ML learning track
 - Hackathons: QUBIC Tickchain, Google FI Money MCP, LabLab AI, IBM WatsonX sprint
 - n8n Level 1 Community Certification
+
+---
+
+## Credly Badges
+
+<div align="center">
+  <a href="https://www.credly.com/badges/17a2e950-2583-4d94-bbab-d91f00429332/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/538c8463-874f-467e-933f-9ea94dd04eb2/public_url">
+    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="140" alt="AWS re/Start Graduate" />
+  </a>
+  <a href="https://www.credly.com/badges/e4635602-baf8-4c70-9933-1ce324701361/public_url">
+    <img src="https://images.credly.com/size/340x340/images/6723c6fb-7220-4861-81e0-defe48981ba1/IBM_20Z_20Day_202025_20AI_20and_20Data.png" width="140" alt="IBM Z Day 2025 - AI and Data" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>GitHub does not render script-based embeds, so these are direct clickable badge cards.</sub>
+</div>
+
+### Credential Links
+
+- Google Skills Public Profile: https://www.skills.google/public_profiles/1033425b-861c-4054-8944-26fd68d262f6
+- IEEE Academic Paper: https://ieeexplore.ieee.org/document/11011841
+- n8n Course Level 1 Badge: https://community.n8n.io/badges/104/completed-n8n-course-level-1?username=abishek_m
+- AWS Certified Cloud Practitioner (Credly): https://www.credly.com/badges/17a2e950-2583-4d94-bbab-d91f00429332/public_url
+- AWS re/Start Graduate (Credly): https://www.credly.com/badges/538c8463-874f-467e-933f-9ea94dd04eb2/public_url
+- IBM Z Day 2025 - AI and Data (Credly): https://www.credly.com/badges/e4635602-baf8-4c70-9933-1ce324701361/public_url
 
 ---
 
