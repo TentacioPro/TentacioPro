@@ -39,6 +39,10 @@
 
 ---
 
+## Live Portfolio
+
+**[Open the live portfolio →](https://tentaciopro.github.io/portfoliov2/)** — AI agents, full-stack systems, infrastructure, and experiments shipped with rigor.
+
 ## About
 
 I build with a Spec-Driven mindset: contracts first, implementation next, refinement continuously.
