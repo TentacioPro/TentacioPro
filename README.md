@@ -1,41 +1,31 @@
-# Abishek Maharajan
+# Abishek M
 
-Software Engineer at cluBITS Solutions. I build AI-enhanced products end-to-end.
+Applied AI Engineer at cluBITS Solutions, based in Chennai. I build voice-agent integrations, SQL-backed tools and document-processing software.
 
-## What I'm Actually Good At
+## Current work
 
-- **Shipping fast with AI agents**: I use spec-driven development with coding agents to scaffold 60-80% of boilerplate, then refine for production.
-- **Full-stack product engineering**: React, Node, Express, MongoDB, Flutter. I own the stack from voice input to database.
-- **Behavior-change products**: Built CiggTrack (Flutter), reduced personal smoking by ~60% (80+/week → 30-40/week). Still using it daily.
+- Voice workflows for candidate interviews and dental appointments using ElevenLabs; these workflows have run live. Insurance verification is a separate workflow prepared for production.
+- An MCP-over-SSE tool server exposing 11 SQL-backed tools, deployed on Azure App Service. I implemented most of the server and worked on provider failover and trace-based debugging with Arize Phoenix.
+- A Dockerized FastAPI service for layout-preserving PDF, DOCX, XLSX and PPTX translation, taken to a priced commercial proposal.
 
-## Proof of Work
+My current role began in June 2025, following a full-stack internship from January to May 2025.
 
-Pinned repos below 👇
+## Selected public work
 
-| Project | What It Does | Stack | Status |
-|---------|-------------|-------|--------|
-| [quick-yt](https://github.com/TentacioPro/quick-yt) | YouTube → AI insights (Markdown/PDF) | Node, Gemini, yt-dlp | Local pipeline working |
-| [portfoliov2](https://github.com/TentacioPro/portfoliov2) | Interactive portfolio with 29 projects | React, Vite, Tailwind | Live on GitHub Pages |
-| [ciggtrack](https://github.com/TentacioPro/ciggtrack) | Smoking tracker with daily streaks | Flutter, Firebase | Daily driver for 1+ year |
-| [maaxly](https://github.com/TentacioPro/maaxly) | Student-employer marketplace | React, Express, Kafka | Architecture complete, local |
-| [polymath-os-android](https://github.com/TentacioPro/polymath-os-android) | Personal knowledge tracker | React Native, Expo, FastAPI | Feature-complete, needs deploy |
+| Project | What to inspect | Current limits |
+| --- | --- | --- |
+| [SafeSupport](https://github.com/TentacioPro/SafeSupport) | Support-triage workflow, retrieval and an evaluation harness | Golden-set completion and live-model evaluation remain pending |
+| [AgenticLoop](https://github.com/TentacioPro/AgenticLoop) | Spec-driven workflow for coding agents, evolved from published practices | A development workflow; not evidence of product adoption |
+| [Portfolio](https://tentaciopro.github.io/portfoliov2/) | Work case studies, project status and contribution boundaries | Employer code and data remain private |
 
-## Stack (What I Actually Use Weekly)
+## Stack
 
-**Frontend**: React, Vite, Tailwind, Framer Motion<br />
-**Backend**: Node.js, Express, FastAPI<br />
-**Mobile**: Flutter, Expo React Native<br />
-**AI**: Gemini API, OpenAI API, yt-dlp, prompt engineering<br />
-**Data**: MongoDB, SQLite, Google Sheets<br />
-**Infra**: Docker, GitHub Actions, Railway/Render
+Python, JavaScript/TypeScript, React, Node.js, Express, Bun, FastAPI, SQL Server, MongoDB, Redis, Docker and Azure. Applied AI work includes ElevenLabs, MCP, LangGraph, LangChain and Arize Phoenix.
 
-## Currently Learning
+I use coding agents and distinguish their generated implementation from my own design, debugging and verification work.
 
-- Agentic orchestration (LangGraph, deterministic state machines)
-- Shipping faster by saying no to 90% of features
+## Opportunities and contact
 
-## Contact
+Seeking applied AI, AI agent, automation and software integration roles in Chennai, Bengaluru or Hyderabad, or India-remote roles with suitable IST hours.
 
-- LinkedIn: [Abishek Maharajan](https://www.linkedin.com/in/abishek-maharajan/)
-- Email: [maharajanabishek@gmail.com](mailto:maharajanabishek@gmail.com)
-- Location: Chennai, India | Open to remote
+[LinkedIn](https://www.linkedin.com/in/abishek-maharajan/) · [Portfolio](https://tentaciopro.github.io/portfoliov2/) · [Email](mailto:abishekmdev@gmail.com)
