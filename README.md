@@ -1,29 +1,31 @@
 # Abishek M
 
-Applied AI Engineer at cluBITS Solutions, Chennai. I build voice-agent integrations, SQL-backed tools and document-processing software.
+Applied AI Engineer at cluBITS Solutions, Chennai. I connect voice agents to business data and build document-processing and retrieval applications.
 
-## Professional work
+## Delivered work
 
-- ElevenLabs voice workflows for candidate interviews and dental appointments that have run live; insurance verification prepared for production.
-- An MCP-over-SSE server exposing 11 SQL-backed tools on Azure App Service. I implemented most of the server and worked on provider failover and Phoenix trace debugging.
-- A Dockerized FastAPI translation service for PDF, DOCX, XLSX and PPTX, developed through a priced commercial proposal.
+- **Live voice workflows:** candidate interviews and dental appointments using ElevenLabs, within a 15-agent implementation across two workspaces. Insurance verification is prepared for production.
+- **Business-data integrations:** implemented most of an 11-tool SQL-backed MCP-over-SSE server on Azure App Service, connecting agents to patient, appointment, availability and eligibility data.
+- **Document translation:** delivered layout-preserving PDF, DOCX, XLSX and PPTX translation through Dockerized FastAPI pipelines with caching, cost tracking and recovery; developed a priced commercial proposal.
+- **Debugging and reliability:** investigated agent failures using 474 conversations and Phoenix traces, closed a SQL-injection bypass, and contributed to multi-provider LLM failover.
 
-Applied AI Engineer from June 2025, following a full-stack internship from January to May 2025.
+Applied AI Engineer from June 2025, following a full-stack internship from January to May 2025. Part-time freelance work includes a talent-marketplace implementation and deployment-architecture planning.
 
-## Selected projects
+## Projects
 
-| Project | Engineering focus | Evidence and limits |
+| Project | What it enables | Explore |
 | --- | --- | --- |
-| [Reel-finder](https://tentaciopro.github.io/portfoliov2/work/reel-finder/) | Canonical ingestion, SQLite FTS5, multilingual semantic retrieval, reciprocal-rank fusion and feedback | Sanitized case study; private source. Development evaluations show coverage gaps; the latest recorded hybrid probe failed on model-memory allocation. |
-| [Local-first ledger](https://tentaciopro.github.io/portfoliov2/work/local-ledger/) | Staged ingestion, review queues, persisted decisions, undo and backup/restore | Private personal application; synthetic-demo procedure. No personal financial records are published. |
-| [SafeSupport](https://github.com/TentacioPro/SafeSupport) | Retrieval, guarded support drafting, escalation and evaluation harness | Public source and 123 software tests; golden-set completion and live-model evaluation pending. |
+| **Reel-finder** | Search saved content through canonical ingestion, deduplication, SQLite FTS5, multilingual embeddings and reciprocal-rank fusion; inspect quality through feedback and coverage checks. | [Architecture and development evidence](https://tentaciopro.github.io/portfoliov2/work/reel-finder/) · Private prototype |
+| **Local-first ledger** | Stage and reconcile records while preserving review decisions across refreshes, with undo and backup/restore tooling. | [Case study and synthetic-demo procedure](https://tentaciopro.github.io/portfoliov2/work/local-ledger/) · Private application |
+| **SafeSupport** | Retrieve relevant support history, draft guarded responses and escalate uncertain cases, with an evaluation harness. | [Public source](https://github.com/TentacioPro/SafeSupport) · 123 software tests; model evaluation pending |
 
-Personal projects use coding-agent assistance; I review architecture, changes and verification evidence. AgenticLoop is supporting workflow material, rather than the lead product showcase.
+Case studies document my contribution, verification evidence and current project limits. I use coding agents for implementation support and review architecture, changes and checks.
 
 ## Stack and contact
 
-Python, JavaScript/TypeScript, FastAPI, React, Node.js, SQL, MongoDB, Redis, Docker, Azure, ElevenLabs, MCP and LangGraph.
+**AI/integrations:** ElevenLabs, MCP, LangGraph, LLM APIs and Arize Phoenix.  
+**Engineering:** Python, JavaScript/TypeScript, FastAPI, React, Node.js, SQL, MongoDB, Redis, Docker and Azure.
 
-[Portfolio and case studies](https://tentaciopro.github.io/portfoliov2/) · [LinkedIn](https://www.linkedin.com/in/abishek-maharajan/) · abishekmdev@gmail.com
+[Portfolio](https://tentaciopro.github.io/portfoliov2/) · [LinkedIn](https://www.linkedin.com/in/abishek-maharajan/) · abishekmdev@gmail.com
 
-Open to AI Engineer, Applied AI Engineer and Generative AI Engineer roles in Chennai, Bengaluru, Hyderabad and India-remote teams.
+Seeking AI Engineer, Applied AI Engineer and Generative AI Engineer roles in Chennai, Bengaluru, Hyderabad or India-remote teams with suitable IST hours.
